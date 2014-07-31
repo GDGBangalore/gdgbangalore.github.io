@@ -8,8 +8,8 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 title: GDG Bangalore
 email: gdg-bangalore-organizers@googlegroups.com
 description: "Google Developer Group Bangalore"
-baseurl: "/GDG-Bangalore"
-url: "http://kartikkannapur.github.io/"
+baseurl: ""
+url: "http://gdgbangalore.github.io/"
 permalink: /blog/:title
 googleAnalyticsTrackingId: ""
 googleAnalyticsSiteUrl: "http://kartikkannapur.github.io/GDG-Bangalore"

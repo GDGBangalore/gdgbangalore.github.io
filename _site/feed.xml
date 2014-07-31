@@ -3,8 +3,8 @@
   <channel>
     <title>GDG Bangalore</title>
     <description>Google Developer Group Bangalore</description>
-    <link>http://kartikkannapur.github.io//GDG-Bangalore/</link>
-    <atom:link href="http://kartikkannapur.github.io//GDG-Bangalore/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://gdgbangalore.github.io//</link>
+    <atom:link href="http://gdgbangalore.github.io//feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>Google Cloud Workshop</title>
@@ -34,8 +34,8 @@ The most liked moment can be when attendees came forward and discuss their busin
 
 </description>
         <pubDate>Sat, 07 Jun 2014 15:30:00 +0530</pubDate>
-        <link>http://kartikkannapur.github.io//GDG-Bangalore/blog/Google-Cloud-Workshop</link>
-        <guid isPermaLink="true">http://kartikkannapur.github.io//GDG-Bangalore/blog/Google-Cloud-Workshop</guid>
+        <link>http://gdgbangalore.github.io//blog/Google-Cloud-Workshop</link>
+        <guid isPermaLink="true">http://gdgbangalore.github.io//blog/Google-Cloud-Workshop</guid>
       </item>
     
   </channel>
