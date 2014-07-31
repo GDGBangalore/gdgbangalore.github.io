@@ -10,19 +10,8 @@
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+BadrinathKulkarni/"}
     - {name: "twitter", link: "https://twitter.com/ibadrinath"}
-    - {name: "github", link: "https://github.com/KartikKannapur"}
+    - {name: "github", link: "https://github.com/BadrinathKulkarni"}
     
-- 
-  id: 1
-  name: "Chintan "
-  surname: "Shah"
-  title: ""
-  thumbnailUrl: Chintan.jpg
-  team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+ChintanShahTech/"}
 - 
   id: 2
   name: "Anuj "
@@ -70,14 +59,4 @@
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/u/0/+SathishVJ/"}
-- 
-  id: 6
-  name: "Shashidhar "
-  surname: "Gurumurthy"
-  title: ""
-  thumbnailUrl: Shashi.jpg
-  team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/u/0/103479552858616934331/"}
+

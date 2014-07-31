@@ -14,17 +14,6 @@
     
 - 
   id: 1
-  name: "Chintan "
-  surname: "Shah"
-  title: ""
-  thumbnailUrl: Chintan.jpg
-  team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+ChintanShahTech/"}
-- 
-  id: 2
   name: "Anuj "
   surname: "Duggal"
   title: ""
@@ -35,7 +24,7 @@
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+AnujDuggal/"}
 - 
-  id: 3
+  id: 2
   name: "Kartik "
   surname: "Kannapur"
   title: ""
@@ -48,7 +37,7 @@
     - {name: "twitter", link: "https://twitter.com/KartikKannapur"}
     - {name: "github", link: "https://github.com/KartikKannapur"}
 - 
-  id: 4
+  id: 3
   name: "Vishal"
   surname: "Pathik Gupta"
   title: ""
@@ -59,25 +48,5 @@
   social: 
     - {name: "google-plus", link: "https://plus.google.com/u/0/+VishalPathikGupta/"}
     - {name: "github", link: "https://github.com/tech-pill"}
-- 
-  id: 5
-  name: "Sathish "
-  surname: "V J"
-  title: ""
-  thumbnailUrl: Sathish.jpg
-  team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/u/0/+SathishVJ/"}
-- 
-  id: 6
-  name: "Shashidhar "
-  surname: "Gurumurthy"
-  title: ""
-  thumbnailUrl: Shashi.jpg
-  team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/u/0/103479552858616934331/"}
+
+
