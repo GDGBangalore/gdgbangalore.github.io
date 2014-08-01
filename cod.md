@@ -15,6 +15,6 @@ Be collaborative. Work together! We can learn a lot from each other. Share knowl
 
 Participate. This is YOUR community, so be a part of it! Join in on discussions, show up for in-person meetings regularly, offer feedback, and offer to help implement that feedback!
 
-Disclaimer: GDG Bangalore is an independent group; our activities and the opinions expressed on this website should in no way be linked to Google, the corporation.
+**Disclaimer:** GDG Bangalore is an independent group; our activities and the opinions expressed on this website should in no way be linked to Google, the corporation.
 
 <img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">

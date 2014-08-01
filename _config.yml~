@@ -11,8 +11,8 @@ description: "Google Developer Group Bangalore"
 baseurl: ""
 url: "http://gdgbangalore.github.io/"
 permalink: /blog/:title
-googleAnalyticsTrackingId: ""
-googleAnalyticsSiteUrl: "http://kartikkannapur.github.io/GDG-Bangalore"
+googleAnalyticsTrackingId: "UA-53426811-1"
+googleAnalyticsSiteUrl: "http://gdgbangalore.github.io"
 
 
 
