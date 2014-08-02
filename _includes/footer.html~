@@ -36,6 +36,24 @@
 					</a>
 				</li>
 				
+				<li>
+					<a href="{{site.youtubeFollowUsUrl}}" target="_blank">
+						<svg class="icon icon-youtube" viewBox="0 0 30 32">
+							<use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-youtube"></use>
+						</svg>
+					</a>
+				</li>
+				
+				<li>
+					<a href="{{site.githubFollowUsUrl}}" target="_blank">
+						<svg class="icon icon-github" viewBox="0 0 30 32">
+							<use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-github"></use>
+						</svg>
+					</a>
+				</li>
+				
+				
+				
 			</ul>
 		</div>
 		<div class="col-md-4 col-sm-4 col-xs-6">

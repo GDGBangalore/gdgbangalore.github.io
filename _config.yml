@@ -51,7 +51,9 @@ thumbnailsFolder: /img/speakers/
 gplusFollowUsUrl: "https://plus.google.com/104550553343399000979"
 twitterFollowUsUrl: "https://twitter.com/GTUG_BLR"
 fbFollowUsUrl: "https://www.facebook.com/groups/133702039437/"
+youtubeFollowUsUrl: "https://www.youtube.com/channel/UCf8khHJqh0pEC2EIz6Ozehw"
 githubFollowUsUrl: "https://github.com/GDGBangalore"
+
 
 # Blog
 blogCommentsEnabled: true
