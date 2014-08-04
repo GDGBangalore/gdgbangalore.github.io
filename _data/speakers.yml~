@@ -1,10 +1,10 @@
 - 
   id: 6
-  name: "Explore new Possibilities with GDG Bangalore: Google Post I/O"
+  name: "Explore new Possibilities - Google Post I/O"
   title: "August 2, 2014"
   
   bio: "We are conducting this meetup as a follow up for the Google I/O. Since Google is exploring the field of Andoird, we wanted to get in touch with developers and wanted to explore the eco-system what Google has provided."
-  thumbnailUrl: statistic.jpg
+  thumbnailUrl: ExploreNewPossibilities.jpg
   rockstar: true
   ribbon: 
     - {abbr: "I/O", title: "Google I/O", url: "https://www.google.com/events/io"}
@@ -37,7 +37,7 @@
     - {name: "google-plus", link: "https://plus.google.com/u/0/events/cha8rka74nk63v46a8l2qj500l4"}
 - 
   id: 3
-  name: "Google’s Cloud Platform Developer Roadshow"
+  name: "Google Cloud Platform Developer Roadshow"
   title: "May 10, 2014"
   
   bio: "Google’s Cloud Platform Developer Roadshow is happening in India. After successful events at Hyderabad and Chennai the Google India Roadshow is coming to Bangalore at The Leela Palace on 10th May 2014. Specifically, the full day event will feature sessions on new technology in the cloud platform, Google App Engine, Google Compute Engine, how Google cloud products can be used by startups and much more. There will also be a demo session for a live experience. The event will also be a good opportunity to engage with Google Cloud Developer Experts."
@@ -63,7 +63,7 @@
     - {name: "google-plus", link: "http://plus.google.com/events/coivdik8hkiub469abcah9644m0"}
 - 
   id: 1
-  name: "Google Women Tech Makers"
+  name: "Google  Women  Tech  Makers"
   title: "March 22, 2014"
   
   bio: "HTML5 and Web Development Workshop is a hands on for a wide range of students. Focus is to touch upon basics of HTML5 and to give the students a kick start in web development."
