@@ -41,3 +41,10 @@ Meteor framework is very easy to use. In comparison to other frameworks, web app
 **3. What did you like the most during the event?**
 
 There is nothing that I can complain about. But, more number of experienced developers should be there. The event was pretty organised.
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+In case you missed the event, you can watch the video here
+
+<iframe width="640" height="360" src="//www.youtube.com/embed/CsyhU3p-3Fs" frameborder="0" allowfullscreen></iframe>
+
