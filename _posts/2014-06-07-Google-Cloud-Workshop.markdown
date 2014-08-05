@@ -22,7 +22,7 @@ Attendees were a mixed crowd. One of the problems I faced during the event was t
 
 The thing I liked the most was the amount of energy, dedication and team work of GDG and GSA members to host the event successfully. I am very thankful to GDG Bangalore and Google to give me the opportunity of being a speaker. Thank you guys! GDG Bangalore rocks!
 
-
+-------------------------------------------------------------------------------------------------------------------------------------------
 
 **[Satendra Singh](https://plus.google.com/u/0/103302681672889679709)**
 

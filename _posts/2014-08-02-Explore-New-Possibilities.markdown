@@ -25,6 +25,8 @@ Free Pizza :P .On a serious note, there wasn't anything much to complain about t
 
 [Link](http://www.slideshare.net/shreys91/ubiquitous-programming) to the presentation.
 
+-------------------------------------------------------------------------------------------------------------------------------------------
+
 **[Priya Arora](https://plus.google.com/105273984087201613503) - [Meteor Framework](https://www.meteor.com/)**
 
 
