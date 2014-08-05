@@ -5,7 +5,7 @@
   
   bio: "We are conducting this meetup as a follow up for the Google I/O. Since Google is exploring the field of Andoird, we wanted to get in touch with developers and wanted to explore the eco-system what Google has provided."
   thumbnailUrl: ExploreNewPossibilities.jpg
-  rockstar: true
+  rockstar: false
   ribbon: 
     - {abbr: "I/O", title: "Google I/O", url: "https://www.google.com/events/io"}
   social: 
@@ -63,7 +63,7 @@
     - {name: "google-plus", link: "http://plus.google.com/events/coivdik8hkiub469abcah9644m0"}
 - 
   id: 1
-  name: "Google  Women  Tech  Makers"
+  name: "Google Women Tech Makers"
   title: "March 22, 2014"
   
   bio: "HTML5 and Web Development Workshop is a hands on for a wide range of students. Focus is to touch upon basics of HTML5 and to give the students a kick start in web development."
