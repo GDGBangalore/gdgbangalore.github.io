@@ -20,7 +20,7 @@ Attendees were a mixed crowd. One of the problems I faced during the event was t
 
 **3. What did you like the most during the event?**
 
-The thing I liked the most was the amount of energy, dedication and team work of GDG and GSA members to host the event successfully.I am very thankful to GDG Bangalore and Google to give me the opportunity of being a speaker. Thank you guys! GDG Bangalore rocks!
+The thing I liked the most was the amount of energy, dedication and team work of GDG and GSA members to host the event successfully. I am very thankful to GDG Bangalore and Google to give me the opportunity of being a speaker. Thank you guys! GDG Bangalore rocks!
 
 
 
