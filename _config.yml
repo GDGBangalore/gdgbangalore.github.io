@@ -26,6 +26,7 @@ mapMobileCenterCoordinates : "12.9006794,77.4966755"
 
 #Tweets feed
 twitterHashTag: "gdgbangalore"
+#twitterFeed :
 
 # Subscribe
 subscribeAction: "http://google.us8.list-manage.com/subscribe?u=837da598d96df27f94c5853c8&id=857aec20f5&orig-lang=1"
