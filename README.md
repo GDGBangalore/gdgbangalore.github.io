@@ -10,9 +10,15 @@ Checkout the [full documentation](https://github.com/gdg-x/zeppelin/wiki).
 Going to use template? Drop in a mail at [*lviv@gdg.org.ua*](mailto:lviv@gdg.org.ua) so they can include you to this list, or make a pull request.
 
 * [GDG DevFest Ukraine 2014](http://devfest.gdg.org.ua/)
-* [GDG DevFest Instanbul 2014](http://devfesttr.com/)
+* [GDG DevFest Istanbul 2014](http://devfesttr.com/)
 * [GDG DevFest Omsk 2014](http://gdg-devfest-omsk.org/)
 * [GDG Bangalore Site](http://gdgbangalore.github.io/)
+* [2014 南阳 GDG Devfest 大会](http://devfest.gdgny.org)
+* [DevFest Nordeste 2014](http://devfestnordeste.github.io/devfest-2014/)
+* [GDG DevFest The Netherlands](http://www.devfest.nl/)
+* [DevFest Centro-Oeste 2014](http://www.devfestcentrooeste.com.br/)
+* [DevFest SP 2014](http://sp.devfest.com.br/)
+* [Android DevFest Space Coast](http://gdg-space-coast.github.io/zeppelin/)
 
 ### Contributors
 * Design and markup: [Oleh Zasadnyy](https://github.com/ozasadnyy)
