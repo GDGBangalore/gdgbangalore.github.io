@@ -1,4 +1,16 @@
 - 
+  id: 7
+  name: "BMSCE Orientation Event - Hangouts '14 "
+  title: "September 11, 2014"
+  
+  bio: "Orientation event in BMS College of Engineering, Bangalore. GDG Bangalore is helping the Google Student Club at BMSCE start off with their first event."
+  thumbnailUrl: BMSCEHangouts14.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "GDG", title: "University Event", url: "https://www.google.com/events/io"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/events/ccsdilm8icbgib3q699665duo0s"}
+- 
   id: 6
   name: "Explore new Possibilities - Google Post I/O"
   title: "August 2, 2014"
