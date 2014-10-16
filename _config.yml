@@ -15,10 +15,12 @@ googleAnalyticsTrackingId: "UA-53426811-1"
 googleAnalyticsSiteUrl: "http://gdgbangalore.github.io"
 googleGroupMailingList : "https://groups.google.com/forum/#!forum/gtug-bangalore"
 
-#Code Pursuit
-eventLocationName : "SJB Institute of Technology"
-eventLocationAddress : "BGS Health & Education City, Kengeri, #67, Uttarahalli Main Rd, Bengaluru, Karnataka 560060"
-emailCodePursuit : "gdgcodepursuit@gmail.com"
+#DevFest Location 
+eventLocationName : "Royal Orchid"
+eventLocationAddress : "1, Golf Avenue, Adjoining KGA Golf Course, Hal Airport Rd, Bengaluru, Karnataka 560008"
+eventStartTime : "9:30 am"
+eventEndTime : "5:00 pm"
+
 #Hackathon Location
 eventPlaceCoordinates : "12.8998,77.495928"
 mapCenterCoordinates : "12.9006794,77.4966755"
@@ -26,6 +28,7 @@ mapMobileCenterCoordinates : "12.9006794,77.4966755"
 
 #Tweets feed
 twitterHashTag: "gdgbangalore"
+twitterHashTagDevFest: "devfest"
 #twitterFeed :
 
 # Subscribe
