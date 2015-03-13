@@ -21,6 +21,12 @@ eventLocationAddress : "1, Golf Avenue, Adjoining KGA Golf Course, Hal Airport R
 eventStartTime : "9:30 am"
 eventEndTime : "5:00 pm"
 
+#CodePursuit Location
+eventLocationNameCodePursuit : "Red Hat - Bangalore"
+eventLocationAddressCodePursuit : "11th Floor, Tower D, IBC Knowledge Park, No. 4/1 Bannerghatta Road, Bangalore 560029"
+eventStartDate : "9:30 am"
+eventEndDate : "5:00 pm"
+
 #Hackathon Location
 eventPlaceCoordinates : "12.8998,77.495928"
 mapCenterCoordinates : "12.9006794,77.4966755"
