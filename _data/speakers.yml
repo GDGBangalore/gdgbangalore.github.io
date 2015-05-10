@@ -1,4 +1,17 @@
 -
+  id: 14
+  name: "Google I/O Extended 2015"
+  title: "May 28th, 2015"
+  
+  bio: "We are live streaming the Google I/O Keynote at the Google Bangalore Office."
+  
+  thumbnailUrl: GoogleIO2015.png
+  rockstar: true
+  ribbon: 
+    - {abbr: "I/O", title: "Google IO", url: "https://events.google.com/io2015/"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/events/c64p1dn023lhs82bilc2oub098g"}
+-
   id: 13
   name: "Google App Engine Meetup"
   title: "February 7, 2015"
@@ -18,7 +31,7 @@
   
   bio: "GDG DevFests are large, community-run events that offers speaker sessions across multiple product areas such as Polymer and Material Design."
   
-  thumbnailUrl: <Change Photo>
+  thumbnailUrl: GDGBangaloreDevFest2014.jpg
   rockstar: true
   ribbon: 
     - {abbr: "DevFest", title: "GDG DevFest", url: "https://developers.google.com/events/devfest/"}
