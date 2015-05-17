@@ -1,5 +1,5 @@
 -
-  id: 14
+  id: 15
   name: "Google I/O Extended 2015"
   title: "May 28th, 2015"
   
@@ -12,6 +12,19 @@
   social: 
     - {name: "google-plus", link: "https://plus.google.com/events/c64p1dn023lhs82bilc2oub098g"}
 -
+  id: 14
+  name: "Code Pursuit 2015"
+  title: "March 21st - 22nd, 2015"
+  
+  bio: "Code Pursuit is a 24 hour hackathon happening for the first time by GDG Bangalore. The event will host some of the top professional and student developers across the country, gathered to build the next generation of innovative software and hardware products."
+  
+  thumbnailUrl: CodePursuit2015.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "Hackathon", title: "Code Pursuit", url: "http://gdgbangalore.in/codepursuit/"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/events/cc97kpn1tg425tcpsatkrbq5sqg?authkey=CLKMm7fAovzyJQ"}
+-
   id: 13
   name: "Google App Engine Meetup"
   title: "February 7, 2015"
@@ -21,7 +34,7 @@
   thumbnailUrl: AppEngineFeb2015.JPG
   rockstar: true
   ribbon: 
-    - {abbr: "App Engine", title: "Google Cloud platform", url: "https://developers.google.com/events/devfest/"}
+    - {abbr: "App Engine", title: "Google Cloud platform", url: "https://developers.google.com"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/b/104550553343399000979/events/cgfbhtuge54hve0nf6j999q6d58"}
 -
