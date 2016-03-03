@@ -77,18 +77,18 @@
   social: 
     - {name: "google-plus", link: "https://plus.google.com/b/104550553343399000979/events/cgfbhtuge54hve0nf6j999q6d58"}
 -
-  # id: 12
-  # name: "DevFest 2014"
-  # title: "November 8, 2014"
-  
-  # bio: "GDG DevFests are large, community-run events that offers speaker sessions across multiple product areas such as Polymer and Material Design."
-  
-  # thumbnailUrl: GDGBangaloreDevFest2014.jpg
-  # rockstar: true
-  # ribbon: 
-  #   - {abbr: "DevFest", title: "GDG DevFest", url: "https://developers.google.com/events/devfest/"}
-  # social: 
-  #   - {name: "google-plus", link: "https://plus.google.com/b/104550553343399000979/events/cgfbhtuge54hve0nf6j999q6d58"}
+# id: 12
+# name: "DevFest 2014"
+# title: "November 8, 2014"
+
+# bio: "GDG DevFests are large, community-run events that offers speaker sessions across multiple product areas such as Polymer and Material Design."
+
+# thumbnailUrl: GDGBangaloreDevFest2014.jpg
+# rockstar: true
+# ribbon: 
+#   - {abbr: "DevFest", title: "GDG DevFest", url: "https://developers.google.com/events/devfest/"}
+# social: 
+#   - {name: "google-plus", link: "https://plus.google.com/b/104550553343399000979/events/cgfbhtuge54hve0nf6j999q6d58"}
 # - 
 #   id: 11
 #   name: "Web Development - Code your Way at RNSIT "
