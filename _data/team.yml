@@ -1,28 +1,28 @@
-- 
-  id: 0
-  name: "Badrinath "
-  surname: "Kulkarni"
-  title: ""
-  thumbnailUrl: Badri.jpg
-  team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+BadrinathKulkarni/"}
-    - {name: "twitter", link: "https://twitter.com/ibadrinath"}
-    - {name: "github", link: "https://github.com/BadrinathKulkarni"}
+# - 
+#   id: 0
+#   name: "Badrinath "
+#   surname: "Kulkarni"
+#   title: ""
+#   thumbnailUrl: Badri.jpg
+#   team: true
+#   ribbon: 
+#     - {abbr: "GDG", title: "Google Developer Group"}
+#   social: 
+#     - {name: "google-plus", link: "https://plus.google.com/+BadrinathKulkarni/"}
+#     - {name: "twitter", link: "https://twitter.com/ibadrinath"}
+#     - {name: "github", link: "https://github.com/BadrinathKulkarni"}
     
-- 
-  id: 1
-  name: "Anuj "
-  surname: "Duggal"
-  title: ""
-  thumbnailUrl: Anuj.jpg
-  team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+AnujDuggal/"}
+# - 
+#   id: 1
+#   name: "Anuj "
+#   surname: "Duggal"
+#   title: ""
+#   thumbnailUrl: Anuj.jpg
+#   team: true
+#   ribbon: 
+#     - {abbr: "GDG", title: "Google Developer Group"}
+#   social: 
+#     - {name: "google-plus", link: "https://plus.google.com/+AnujDuggal/"}
 - 
   id: 2
   name: "Kartik "
@@ -33,7 +33,7 @@
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/u/0/+KartikKannapur27/"}
+    # - {name: "google-plus", link: "https://plus.google.com/u/0/+KartikKannapur27/"}
     - {name: "twitter", link: "https://twitter.com/KartikKannapur"}
     - {name: "github", link: "https://github.com/KartikKannapur"}
 - 
@@ -48,5 +48,27 @@
   social: 
     - {name: "google-plus", link: "https://plus.google.com/u/0/+VishalPathikGupta/"}
     - {name: "github", link: "https://github.com/tech-pill"}
+- 
+  id: 4
+  name: "Tejas"
+  surname: "Koundinya"
+  title: ""
+  thumbnailUrl: Tejas.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+TejasKoundinya"}
+    - {name: "github", link: "https://github.com/tejaskoundinya"}
+- 
+  id: 5
+  name: "Jyotsna"
+  surname: "Tiwari"
+  title: ""
+  thumbnailUrl: Jyotsna.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
 
 
