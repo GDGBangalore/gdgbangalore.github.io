@@ -1,4 +1,43 @@
 -
+  id: 18
+  name: "Back with Backend - Docker"
+  title: "February 27th, 2016"
+  
+  bio: "Docker is an open platform for building distributed applications for developers and sysadmins. This was a hands-on workshop on Docker."
+  
+  thumbnailUrl: Docker2016.png
+  rockstar: true
+  ribbon: 
+    - {abbr: "meetup", title: "Docker", url: "https://www.docker.com/"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/b/104550553343399000979/events/caaruhcofu422cucqcle30h8la0"}
+-
+  id: 17
+  name: "Women Techmakers Event"
+  title: "October 31st, 2015"
+  
+  bio: "Google's Women Techmakers program provides visibility, community, and resources for women in technology."
+  
+  thumbnailUrl: WTM2015.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "meetup", title: "WTM", url: "https://www.womentechmakers.com/"}
+  social: 
+    - {name: "google-plus", link: ""}
+-
+  id: 16
+  name: "Firebase Event"
+  title: "August 22nd, 2015"
+  
+  bio: "Firebase can power your app's backend, including data storage, user authentication, static hosting, and more. Focus on creating extraordinary user experiences. This meetup was in Introduction to Firebase."
+  
+  thumbnailUrl: FirebaseEvent2015.png
+  rockstar: true
+  ribbon: 
+    - {abbr: "meetup", title: "Firebase", url: "https://www.firebase.com/"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/b/104550553343399000979/events/chpor7foqdofk6uem2khrm4bk6c"}
+-
   id: 15
   name: "Google I/O Extended 2015"
   title: "May 28th, 2015"
@@ -38,18 +77,18 @@
   social: 
     - {name: "google-plus", link: "https://plus.google.com/b/104550553343399000979/events/cgfbhtuge54hve0nf6j999q6d58"}
 -
-  id: 12
-  name: "DevFest 2014"
-  title: "November 8, 2014"
+  # id: 12
+  # name: "DevFest 2014"
+  # title: "November 8, 2014"
   
-  bio: "GDG DevFests are large, community-run events that offers speaker sessions across multiple product areas such as Polymer and Material Design."
+  # bio: "GDG DevFests are large, community-run events that offers speaker sessions across multiple product areas such as Polymer and Material Design."
   
-  thumbnailUrl: GDGBangaloreDevFest2014.jpg
-  rockstar: true
-  ribbon: 
-    - {abbr: "DevFest", title: "GDG DevFest", url: "https://developers.google.com/events/devfest/"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/b/104550553343399000979/events/cgfbhtuge54hve0nf6j999q6d58"}
+  # thumbnailUrl: GDGBangaloreDevFest2014.jpg
+  # rockstar: true
+  # ribbon: 
+  #   - {abbr: "DevFest", title: "GDG DevFest", url: "https://developers.google.com/events/devfest/"}
+  # social: 
+  #   - {name: "google-plus", link: "https://plus.google.com/b/104550553343399000979/events/cgfbhtuge54hve0nf6j999q6d58"}
 # - 
 #   id: 11
 #   name: "Web Development - Code your Way at RNSIT "
@@ -115,81 +154,81 @@
 #   social: 
 #     - {name: "google-plus", link: "https://plus.google.com/u/0/events/ccsdilm8icbgib3q699665duo0s"}
 - 
-  id: 6
-  name: "Explore new Possibilities - Post Google I/O"
-  title: "August 2, 2014"
+#   id: 6
+#   name: "Explore new Possibilities - Post Google I/O"
+#   title: "August 2, 2014"
   
-  bio: "This meetup was conducted as a follow up for the Google I/O event."
+#   bio: "This meetup was conducted as a follow up for the Google I/O event."
   
-  thumbnailUrl: ExploreNewPossibilities.jpg
-  rockstar: true
-  ribbon: 
-    - {abbr: "I/O", title: "Google I/O", url: "https://www.google.com/events/io"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/events/c170f05s79vbvm8dsjn2s96t0jc"}
-- 
-  id: 5
-  name: "Google I/O Extended 2014"
-  title: "June 25, 2014"
+#   thumbnailUrl: ExploreNewPossibilities.jpg
+#   rockstar: true
+#   ribbon: 
+#     - {abbr: "I/O", title: "Google I/O", url: "https://www.google.com/events/io"}
+#   social: 
+#     - {name: "google-plus", link: "https://plus.google.com/events/c170f05s79vbvm8dsjn2s96t0jc"}
+# - 
+#   id: 5
+#   name: "Google I/O Extended 2014"
+#   title: "June 25, 2014"
   
-  bio: "Google I/O Extended is the live streaming of the Google I/O Developer Conference which covers the latest technologies that Google is working on."
+#   bio: "Google I/O Extended is the live streaming of the Google I/O Developer Conference which covers the latest technologies that Google is working on."
   
-  thumbnailUrl: GoogleIOExtended14.jpg
-  rockstar: true
-  ribbon: 
-    - {abbr: "I/O", title: "Google I/O", url: "https://www.google.com/events/io"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/events/c170f05s79vbvm8dsjn2s96t0jc"}
-- 
-  id: 4
-  name: "Google Cloud Workshop"
-  title: "June 7, 2014"
+#   thumbnailUrl: GoogleIOExtended14.jpg
+#   rockstar: true
+#   ribbon: 
+#     - {abbr: "I/O", title: "Google I/O", url: "https://www.google.com/events/io"}
+#   social: 
+#     - {name: "google-plus", link: "https://plus.google.com/events/c170f05s79vbvm8dsjn2s96t0jc"}
+# - 
+#   id: 4
+#   name: "Google Cloud Workshop"
+#   title: "June 7, 2014"
   
-  bio: "Google Cloud Workshop is an event as a follow up session of Google Cloud India Roadshow. Participants will be given hands-on session on how to use different services of Google w.r.t. Google Cloud Platform."
+#   bio: "Google Cloud Workshop is an event as a follow up session of Google Cloud India Roadshow. Participants will be given hands-on session on how to use different services of Google w.r.t. Google Cloud Platform."
   
-  thumbnailUrl: GoogleCloudWorkshop7thJune.jpg
-  rockstar: true
-  ribbon: 
-    - {abbr: "Cloud", title: "Google Cloud", url: "https://cloud.google.com/"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/u/0/events/cha8rka74nk63v46a8l2qj500l4"}
-- 
-  id: 3
-  name: "Google Cloud Platform Developer Roadshow"
-  title: "May 10, 2014"
+#   thumbnailUrl: GoogleCloudWorkshop7thJune.jpg
+#   rockstar: true
+#   ribbon: 
+#     - {abbr: "Cloud", title: "Google Cloud", url: "https://cloud.google.com/"}
+#   social: 
+#     - {name: "google-plus", link: "https://plus.google.com/u/0/events/cha8rka74nk63v46a8l2qj500l4"}
+# - 
+#   id: 3
+#   name: "Google Cloud Platform Developer Roadshow"
+#   title: "May 10, 2014"
   
-  bio: "Google’s Cloud Platform Developer Roadshow is happening in India. After successful events at Hyderabad and Chennai the Google India Roadshow is coming to Bangalore at The Leela Palace on 10th May 2014. Specifically, the full day event will feature sessions on new technology in the cloud platform, Google App Engine, Google Compute Engine, how Google cloud products can be used by startups and much more. There will also be a demo session for a live experience. The event will also be a good opportunity to engage with Google Cloud Developer Experts."
+#   bio: "Google’s Cloud Platform Developer Roadshow is happening in India. After successful events at Hyderabad and Chennai the Google India Roadshow is coming to Bangalore at The Leela Palace on 10th May 2014. Specifically, the full day event will feature sessions on new technology in the cloud platform, Google App Engine, Google Compute Engine, how Google cloud products can be used by startups and much more. There will also be a demo session for a live experience. The event will also be a good opportunity to engage with Google Cloud Developer Experts."
   
-  thumbnailUrl: GoogleCloudRoadshow.jpg
-  rockstar: true
-  ribbon: 
-    - {abbr: "Cloud","Roadshow", title: "Google Cloud", url: "http://www.googlecloudroadshow.com/cloud-platform-roadshow.html"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/u/0/b/104550553343399000979/events/chcq13c5n5g11rsgjlpvpk6rjc8"}
-- 
-  id: 2
-  name: "HTML5 and Web Development "
-  title: "April 5, 2014"
+#   thumbnailUrl: GoogleCloudRoadshow.jpg
+#   rockstar: true
+#   ribbon: 
+#     - {abbr: "Cloud","Roadshow", title: "Google Cloud", url: "http://www.googlecloudroadshow.com/cloud-platform-roadshow.html"}
+#   social: 
+#     - {name: "google-plus", link: "https://plus.google.com/u/0/b/104550553343399000979/events/chcq13c5n5g11rsgjlpvpk6rjc8"}
+# - 
+#   id: 2
+#   name: "HTML5 and Web Development "
+#   title: "April 5, 2014"
   
-  bio: "HTML5 and Web Development Workshop is a hands on for a wide range of students. Focus is to touch upon basics of HTML5 and to give the students a kick start in web development."
+#   bio: "HTML5 and Web Development Workshop is a hands on for a wide range of students. Focus is to touch upon basics of HTML5 and to give the students a kick start in web development."
   
-  thumbnailUrl: HTML5April.jpg
-  rockstar: true
-  ribbon: 
-    - {abbr: "HTML","Web", title: "Web Development", url: "https://cloud.google.com/"}
-  social: 
-    - {name: "google-plus", link: "http://plus.google.com/events/coivdik8hkiub469abcah9644m0"}
-- 
-  id: 1
-  name: "Google Women Tech Makers"
-  title: "March 22, 2014"
+#   thumbnailUrl: HTML5April.jpg
+#   rockstar: true
+#   ribbon: 
+#     - {abbr: "HTML","Web", title: "Web Development", url: "https://cloud.google.com/"}
+#   social: 
+#     - {name: "google-plus", link: "http://plus.google.com/events/coivdik8hkiub469abcah9644m0"}
+# - 
+#   id: 1
+#   name: "Google Women Tech Makers"
+#   title: "March 22, 2014"
   
-  bio: "HTML5 and Web Development Workshop is a hands on for a wide range of students. Focus is to touch upon basics of HTML5 and to give the students a kick start in web development."
+#   bio: "HTML5 and Web Development Workshop is a hands on for a wide range of students. Focus is to touch upon basics of HTML5 and to give the students a kick start in web development."
   
-  thumbnailUrl: WomenTechmaker22.jpg
-  rockstar: true
-  ribbon: 
-    - {abbr: "Tech", title: "Women Techmaker", url: "https://cloud.google.com/"}
-  social: 
-    - {name: "google-plus", link: "http://plus.google.com/events/ca4heu9f31op9fe9p06srskv1qc"}
+#   thumbnailUrl: WomenTechmaker22.jpg
+#   rockstar: true
+#   ribbon: 
+#     - {abbr: "Tech", title: "Women Techmaker", url: "https://cloud.google.com/"}
+#   social: 
+#     - {name: "google-plus", link: "http://plus.google.com/events/ca4heu9f31op9fe9p06srskv1qc"}
 
