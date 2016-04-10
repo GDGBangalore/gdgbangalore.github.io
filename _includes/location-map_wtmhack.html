@@ -1,0 +1,43 @@
+<!--Begin Location Section -->
+<section>
+    <div>
+        <div>
+            <div class="location-description text-left" data-animation="fadeInLeft" data-delay="0">
+                <div class="pull-right" id="location_devfest">
+                    <h3>Location</h3>
+                    <ul>
+                        <li itemprop="name">{{site.eventLocationNameWTMHack}}</li>
+                        <li itemprop="address">{{site.eventLocationAddressWTMHack}}</li>
+                        <p>&nbsp;</p>
+                        <li itemprop="data">16th - 17th April, 2016</li>
+                    </ul>
+                </div>
+
+                <div id="googlemaps_codepursuit">
+                    <iframe src="https://www.google.com/maps/place/Flipkart+Internet+Pvt.+Ltd./@12.9334584,77.692464,17z/data=!3m1!4b1!4m2!3m1!1s0x3bae13ac0e6cd5b5:0xcd2d5baadbadf3d0?hl=en-US" width="800" height="600" frameborder="0" style="border:0"></iframe>
+                </div>
+
+            </div>
+        </div>
+    </section>
+    <!-- End Location Section -->
+
+
+    <style type="text/css">
+    #googlemaps_devfest { 
+      position:center; 
+      top: 0; 
+      left: 0; 
+      z-index: 0;
+  }
+
+  #location_devfest { 
+      position: relative; 
+      z-index: 1; 
+      width: 250px;
+      background: white;
+      height: auto;
+      opacity: .95; /* Set the opacity for a slightly transparent Google Maps*/ 
+      color: black;
+  }
+  </style>

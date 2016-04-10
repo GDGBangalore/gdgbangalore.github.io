@@ -26,6 +26,8 @@ eventLocationNameCodePursuit : "Red Hat - Bangalore"
 eventLocationAddressCodePursuit : "11th Floor, Tower D, IBC Knowledge Park, No. 4/1 Bannerghatta Road, Bangalore 560029"
 eventStartDate : "9:30 am"
 eventEndDate : "5:00 pm"
+eventLocationNameWTMHack : "WTM Hack"
+eventLocationAddressWTMHack : "Flipkart Internet Pvt. Ltd., Cessna Business Park Main Road, Kaverappa Layout, Bengaluru, Karnataka"
 
 #Hackathon Location
 eventPlaceCoordinates : "12.8998,77.495928"
